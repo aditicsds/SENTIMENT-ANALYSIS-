@@ -14,7 +14,6 @@ A machine learning-based project that analyzes Amazon product reviews and classi
 * Installation
 * Usage
 * Design Diagrams
-* Project Team
 * License
 
 ---
@@ -130,17 +129,6 @@ Upload a .csv file of reviews or input custom review text.
 * Adaptability: Trained on various Amazon product domains.
 * Explainability: Shows reason for each classification.
 * Security: Keeps review data private and safe.
-
----
-
-## Project Team
-
-| Name          | Role                          |
-| ------------- | ----------------------------- |
-| Aditi Tiwari  | Coding, Design, Testing       |
-| Aanya Singhai | Design, Requirement Gathering |
-| Anshika Gupta | Coding, Testing               |
-| Jagrati Yadav | Requirement Gathering         |
 
 ---
 
